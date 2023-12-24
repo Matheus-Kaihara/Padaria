@@ -11,7 +11,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Alguns programas necessarios para rodar nosso sistema:
 
-* 📁Padaria - "Padaria.zip" que iremos disponibilizar o download.
+* 📁Padaria - Todos os arquivos estão disponíveis acima, tanto as paginas de html,css, como as partes feitas em php e o BD.
 * [Xampp](https://www.apachefriends.org/) - conexao com o banco de dados criando ambiente local.
 
 
